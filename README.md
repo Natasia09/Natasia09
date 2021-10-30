@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natasia09)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Natasia09&langs_count=5&theme=tokyonight)]()
+
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Natasia09&count_private=true&theme=tokyonight&showicons=true)]()
+
